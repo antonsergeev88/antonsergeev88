@@ -2,6 +2,7 @@
 
 ### Currently working on
 - **Skrawl** — BlurHash-like encoding with mask support, still in private
+- **StaticDB** - Simplified SQLite API for a wide range of projects, still in private
 
 ### Maintaining
 - **[LSQLite](https://github.com/antonsergeev88/LSQLite)** — Swifty wrapper around SQLite
