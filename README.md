@@ -9,4 +9,4 @@
 - **[FlatTypeCodable](https://github.com/antonsergeev88/FlatTypeCodable)** - Macro for coding heterogeneous lists
 
 ### Contacts
-**[LinkedIn](https://www.linkedin.com/in/antonsergeev88)** **[Email](antonsergeev88@gmail.com)**
+**[LinkedIn](https://www.linkedin.com/in/antonsergeev88)** **[Email](mailto:antonsergeev88@gmail.com)**
